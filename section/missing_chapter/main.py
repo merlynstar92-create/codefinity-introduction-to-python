@@ -1,0 +1,9 @@
+print("Shopping Receipt")
+print("-----------------------")
+print("Item 1: $", 162*1.2)  # Price per weight
+print("Item 2: $", 25-3)  # Discounted price
+print("-----------------------")
+print("Subtotal: $",194.4 + 22 )
+print("Tax (8%): $", 216.4*0.08)
+print("-----------------------")
+print("Thank you for shopping!")
